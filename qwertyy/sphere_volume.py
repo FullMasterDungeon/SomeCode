@@ -1,7 +1,5 @@
 import math
 
-import math
-
 pi = math.pi #Число Пи. Примерно, равное 3.141592653589793
 
 def calculate_sphere_volume(r):
